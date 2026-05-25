@@ -1,0 +1,13 @@
+
+Updating Website on Git Hub
+
+1. Make sure you're in the folder that holds your : "Index" and "CNAME" (ironfire-site)
+2. open a CMD prompt. Ensure it reads: 
+	C:\Users\jstri\Desktop\Ironbridge Ventures\Businesses\Projects\IronFire Tech\ironfire-site>
+
+then type:
+1. git pull          (before you start working, as this pulls down a rebase from Git Hub)
+2. (... edit files ...do whatever work you're doing to your site files)
+3. git add .   (adds your work to Git Hub)
+4. git commit -m "..."   (the "..." is a brief description of what you changed)
+5. git push          (when you're done, sends the files out to Git Hub)
